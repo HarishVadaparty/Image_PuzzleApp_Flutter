@@ -1,2 +1,2 @@
 # Image_PuzzleApp_Flutter
- huat a basic jigsaw puzzle
+just a basic jigsaw puzzle
